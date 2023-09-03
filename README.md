@@ -21,6 +21,13 @@ In tandem with our commitment to progress, we have released the comprehensive so
 
 For more information about the Harmony Valley project and its goals, visit the [Harmony Valley project page](https://linktr.ee/wamboo.harmonyvalley).
 
+## Publication
+
+You can find more details about the research for which this Matlab code was created and the findings in the publication:
+
+- Title: "Green Video Compression for Metaverse: Lessons Learned from VP9 and HEVC"
+- Conference: 2023 SMPTE Media Technology Summit
+- 
 ## Getting Started
 
 To get started with the HEVC Motion Estimation code, follow these steps:
