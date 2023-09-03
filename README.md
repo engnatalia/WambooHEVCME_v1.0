@@ -84,5 +84,3 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 ## Contact
 
 For any questions or inquiries, please feel free to contact us at [contact.harmonyvalley@gmail.com](contact.harmonyvalley@gmail.com).
-```
-
