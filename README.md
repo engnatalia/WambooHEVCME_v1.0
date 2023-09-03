@@ -1,4 +1,4 @@
-# VP9 Motion Estimation in Matlab
+# HEVC Motion Estimation in Matlab
 
 ![Wamboo Initiative](wamboo.png)
 
@@ -21,16 +21,9 @@ In tandem with our commitment to progress, we have released the comprehensive so
 
 For more information about the Harmony Valley project and its goals, visit the [Harmony Valley project page](https://linktr.ee/wamboo.harmonyvalley).
 
-## Publication
-
-You can find more details about our research and findings in the publication:
-
-- Title: "Green Video Compression for Metaverse: Lessons Learned from VP9 and HEVC"
-- Conference: SMPTE Media Technology Summit
-
 ## Getting Started
 
-To get started with the VP9 Motion Estimation code, follow these steps:
+To get started with the HEVC Motion Estimation code, follow these steps:
 
 1. Clone the repository to your local machine:
    ```shell
