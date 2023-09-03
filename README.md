@@ -1,6 +1,6 @@
 # VP9 Motion Estimation in Matlab
 
-![Wamboo Initiative](wamboo.jpg)
+![Wamboo Initiative](wamboo.png)
 
 ## Table of Contents
 
@@ -83,7 +83,6 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please feel free to contact us at [contact.harmonyvalley@gmail.com](contact.harmonyvalley@gmail.com).
 ```
 
-This README.md file provides an overview of your project, how to get started, how to contribute, the license information, and contact details. Make sure to replace placeholders such as `your-username` and `your-email@example.com` with your actual information.
