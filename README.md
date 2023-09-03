@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file for your VP9 Matlab code on GitHub, including the Apache 2.0 license and authorship by Natalia Molinero Mingorance:
-
-```markdown
 # VP9 Motion Estimation in Matlab
 
 ![Wamboo Initiative](wamboo.jpg)
