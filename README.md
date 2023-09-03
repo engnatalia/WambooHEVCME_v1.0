@@ -27,7 +27,8 @@ You can find more details about the research for which this Matlab code was crea
 
 - Title: "Green Video Compression for Metaverse: Lessons Learned from VP9 and HEVC"
 - Conference: 2023 SMPTE Media Technology Summit
-- 
+- Author: Natalia Molinero Mingorance
+  
 ## Getting Started
 
 To get started with the HEVC Motion Estimation code, follow these steps:
