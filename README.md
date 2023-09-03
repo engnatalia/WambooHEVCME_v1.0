@@ -19,6 +19,8 @@ Harmony Valley embarked on its journey in April 2022, driven by a core mission t
 
 In tandem with our commitment to progress, we have released the comprehensive source codes for both Android applications and the motion estimation algorithms of VP9 and HEVC in Matlab. These resources include detailed energy efficiency metrics and computation count calculations. As part of our collaborative ethos, we offer these tools to all impassioned researchers, fostering their active participation in our collective objective.
 
+Our primary goal is to enhance the VP9 and HEVC video compression algorithms to include our own energy-efficient video compression algorithm. This algorithm is intended for integration into the Wamboo Eco-compressor and Wamboo Eco-cam Android applications, available at [Wamboo Eco-compressor](https://github.com/engnatalia/Wamboo_v3.1) and [Wamboo Eco-cam](https://github.com/engnatalia/WambooCam_v1.4), respectively.
+
 For more information about the Harmony Valley project and its goals, visit the [Harmony Valley project page](https://linktr.ee/wamboo.harmonyvalley).
 
 ## Publication
